@@ -1,2 +1,2 @@
-parrot
-eagle
+1. parrot
+2. eagle
